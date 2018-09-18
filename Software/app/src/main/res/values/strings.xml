@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SCloud</string>
+    <string name="en_strLogin">Login</string>
+    <string name="en_strPassword">Password</string>
+    <string name="en_strSignUp">Sign Up</string>
+    <string name="en_strSignIn">Sign In</string>
+
+    <string name="ru_authorization">Авторизация</string>
+    <string name="ru_strLogin">Имя пользователя</string>
+    <string name="ru_strPassword">Пароль</string>
+    <string name="ru_strSignUp">Создать аккаунт</string>
+    <string name="ru_strSignIn">Войти</string>
+    <string name="ru_registration">Регистрация</string>
+    <string name="ru_firstName">Имя</string>
+    <string name="ru_lastName">Фамилия</string>
+    <string name="ru_strEmail">E-mail</string>
+    <string name="ru_correctPass">Пароль "\n"повторно</string>
+    <string name="ru_personalDataAccept">Согласие на обработку"\n"персональных данных</string>
+</resources>
