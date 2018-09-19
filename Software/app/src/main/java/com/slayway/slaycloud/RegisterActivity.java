@@ -36,6 +36,9 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         switch (view.getId()){
             case R.id.buttonCreateAcc:
                 break;
+
+            default:
+                break;
         }
     }
 }
