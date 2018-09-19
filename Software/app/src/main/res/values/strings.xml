@@ -14,6 +14,6 @@
     <string name="ru_firstName">Имя</string>
     <string name="ru_lastName">Фамилия</string>
     <string name="ru_strEmail">E-mail</string>
-    <string name="ru_correctPass">Пароль "\n"повторно</string>
+    <string name="ru_regLogins">Логин</string>
     <string name="ru_personalDataAccept">Согласие на обработку"\n"персональных данных</string>
 </resources>
